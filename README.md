@@ -1,10 +1,8 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQGSlfdus46AYw/profile-displaybackgroundimage-shrink_350_1400/0/1714954313215?e=1720656000&v=beta&t=gCui6dN3RivSl72qX2oIuHHOxRGYruYlusDnm_eYi2o)
 
 
-
 <h1 align="center">Hi 👋, I'm Hasan Can DEĞİRMENCİ</h1>
 <h3 align="center">A Passionate Frontend Developer From Turkey</h3>
-
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hcd07" alt="hcd07" /></a> </p>
@@ -14,8 +12,6 @@
 - 💬 Ask me about **Html5 ,Css ,JavaScript**
 
 - 📫 How to reach me **degirmencihasancan@hotmail.com**
-
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?rjoydip" frameborder="0"></iframe>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
