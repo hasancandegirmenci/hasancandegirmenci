@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://codepen.io/hcd_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hcd_07" height="30" width="40" /></a>
 <a href="https://twitter.com/@hcd_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hcd_07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hasan can deği̇rmenci̇" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasan can deği̇rmenci̇" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hasan-can-degirmenci-626488236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasan can deği̇rmenci̇" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@hcd07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@hcd07" height="30" width="40" /></a>
 <a href="https://discord.gg/hcd_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hcd_07" height="30" width="40" /></a>
 </p>
