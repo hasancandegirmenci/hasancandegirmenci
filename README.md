@@ -32,3 +32,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hcd07&" alt="hcd07" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hcd07&label=Profile%20views&color=0e75b6&style=flat" alt="hcd07" /> </p>
+
+![snake gif](https://github.com/hcd07/hcd07/blob/output/github-contribution-grid-snake.gif)
